@@ -13,6 +13,8 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+
+	bar()
 }
 
 func foo() {
